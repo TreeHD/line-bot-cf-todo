@@ -2,7 +2,7 @@
 const templateCarousel = (todos) => {
     let c = {
         "type": "template",
-        "altText": "this is a carousel template",
+        "altText": "待辦事項清單",
         "template": {
             "type": "carousel",
             "columns": todos,
